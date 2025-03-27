@@ -1,7 +1,7 @@
 # QueueShopper
 
 ## Overview
-KafkaCommerce is a scalable e-commerce application using Kafka to handle asynchronous communication between services like order management, inventory updates, and payment processing.
+QueueShopper is a scalable e-commerce application using Kafka to handle asynchronous communication between services like order management, inventory updates, and payment processing.
 
 ---
 
